@@ -71,4 +71,4 @@ Created with 💜 by:
 - [Marta](https://github.com/martaalarena)
 - [Ana](https://github.com/metaanita)
 - [María](https://github.com/MNblue)
-- [Tina](https://github.com/asertina)
+- [Tina](https://github.com/usertina)
